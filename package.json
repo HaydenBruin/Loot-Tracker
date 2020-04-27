@@ -1,0 +1,14 @@
+{
+  "name": "loot-tracker",
+  "version": "1.0.0",
+  "description": "Discord bot for the boys to keep track of loot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node .",
+    "lint": "eslint ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
